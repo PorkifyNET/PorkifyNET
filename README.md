@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, C# and Lua.
 - 🤝 Things I'm currently working on:
     - Game Master & Moderator for the [PorkySMP](https://wiki.porkify.net/wiki/Main_Page)
-    - Creator of the [Porkify Balatro Mod](https://github.com/PorkifyNET/porkify)
+    - Creator of the [Porkify Balatro Mod](https://github.com/PorkifyNET/porkify) and the [Balatro MultiBots Mod](https://github.com/PorkifyNET/MultiBots)
     - Closed Bèta Tester for EVOlution
 <!--- - 💞️ I’m looking to collaborate on ??? --->
 - 📫 How to reach me: @PorkyLIVE on Discord
