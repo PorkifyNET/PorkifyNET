@@ -6,7 +6,7 @@
     - Creator of various Balatro mods: [Porkify](https://github.com/PorkifyNET/porkify), [MultiBots](https://github.com/PorkifyNET/MultiBots) for Balatro-MultiPlayer and the [MoldLatro](https://github.com/PorkifyNET/MoldLatro) in-game mod version switcher.
     - Closed Bèta Tester for the EVOlution Messenger
     - Sysadmin for DaveNetwork
-    - Upload a [YouTube](https://yt.porky.live) video before the heat-death of the universe.
+    - Upload a [YouTube](https://www.youtube.com/@PorkyLIVE) video before the heat-death of the universe.
 <!--- - 💞️ I’m looking to collaborate on ??? --->
 - 📫 How to reach me: @PorkyLIVE on Discord
 - 😄 Pronouns: She/They 🏳️‍⚧️
